@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Yrok_Kalc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Yrok_Kalc_jar</output-path>
+    <root id="archive" name="Yrok_Kalc.jar">
+      <element id="module-output" name="Yrok_Kalc" />
+    </root>
+  </artifact>
+</component>
